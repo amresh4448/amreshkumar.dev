@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Daily Scanner</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f5f7fa;
+      color: #333;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    }
+
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    .date {
+      text-align: center;
+      color: #777;
+      margin-bottom: 30px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .highlight {
+      background: #eafaf1;
+      padding: 10px;
+      border-left: 4px solid #27ae60;
+      margin-bottom: 20px;
+      border-radius: 6px;
+    }
+
+    .warning {
+      background: #fff5f5;
+      padding: 10px;
+      border-left: 4px solid #e74c3c;
+      margin-bottom: 20px;
+      border-radius: 6px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 14px;
+      color: #777;
+    }
+
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>🔒 Privacy Policy</h1>
+  <p class="date"><strong>Daily Scanner – Document Scanner App</strong><br>
+  Effective Date: April 8, 2026</p>
+
+  <div class="highlight">
+    <strong>Quick Summary:</strong>
+    <ul>
+      <li>We do NOT collect or store personal data</li>
+      <li>Your documents stay on your device</li>
+      <li>No cloud storage or servers</li>
+      <li>Ads use anonymous data only</li>
+    </ul>
+  </div>
+
+  <h2>1. Introduction</h2>
+  <p>
+    Daily Scanner is a privacy-first document scanning app. All scanning,
+    processing, and storage happen entirely on your device.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+
+  <h3>We DO NOT collect:</h3>
+  <ul>
+    <li>Name, email, phone number</li>
+    <li>Documents or scanned files</li>
+    <li>Location data</li>
+    <li>Contacts or personal data</li>
+  </ul>
+
+  <h3>Automatically (via AdMob):</h3>
+  <ul>
+    <li>Device type and OS</li>
+    <li>Ad interaction (clicks, impressions)</li>
+    <li>Approximate location (country level)</li>
+    <li>Advertising ID</li>
+  </ul>
+
+  <p>
+    Google Privacy Policy:
+    <a href="https://policies.google.com/privacy" target="_blank">
+      https://policies.google.com/privacy
+    </a>
+  </p>
+
+  <h2>3. How We Use Information</h2>
+
+  <h3>App Features:</h3>
+  <ul>
+    <li>Scan documents</li>
+    <li>Create PDFs</li>
+    <li>Save locally</li>
+    <li>Share files</li>
+  </ul>
+
+  <h3>We DO NOT:</h3>
+  <ul>
+    <li>Upload data</li>
+    <li>Track users</li>
+    <li>Sell information</li>
+  </ul>
+
+  <h2>4. Permissions</h2>
+
+  <ul>
+    <li><strong>Camera:</strong> For scanning documents only</li>
+    <li><strong>Storage:</strong> Save and load files</li>
+    <li><strong>Internet:</strong> For ads only</li>
+  </ul>
+
+  <h2>5. Data Storage</h2>
+  <p>
+    All data is stored locally on your device. We do not use cloud storage.
+  </p>
+
+  <h2>6. Advertising</h2>
+  <p>
+    This app uses Google AdMob to show ads.
+  </p>
+
+  <ul>
+    <li>Banner Ads</li>
+    <li>Native Ads</li>
+    <li>Interstitial Ads</li>
+    <li>Rewarded Ads (optional)</li>
+  </ul>
+
+  <div class="highlight">
+    Ads are never shown at app launch and never block core features.
+  </div>
+
+  <h2>7. Children's Privacy</h2>
+  <div class="warning">
+    This app is not intended for children under 13.
+  </div>
+
+  <h2>8. Third-Party Services</h2>
+  <ul>
+    <li>Google AdMob</li>
+    <li>Google Play Services</li>
+    <li>Apple App Store</li>
+  </ul>
+
+  <h2>9. Your Rights</h2>
+  <ul>
+    <li>You can delete data anytime</li>
+    <li>You control all your files</li>
+    <li>You can opt out of ads</li>
+  </ul>
+
+  <h2>10. Changes</h2>
+  <p>
+    We may update this policy. Changes will be reflected on this page.
+  </p>
+
+  <h2>11. Contact</h2>
+  <p>
+    Email: <strong>privacy@dailyscanner.app</strong><br>
+    Response within 5 business days
+  </p>
+
+  <div class="footer">
+    © 2026 Daily Scanner<br>
+    Your privacy is your right.
+  </div>
+
+</div>
+
+</body>
+</html>
